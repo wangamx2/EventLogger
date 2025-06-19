@@ -1,0 +1,56 @@
+# .NET build artifacts
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider/VSCode/VS settings
+.idea/
+.vscode/
+*.code-workspace
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# AWS SAM build and deployment artifacts
+.aws-sam/
+
+# Docker
+**/docker-compose.override.yml
+
+# Test results
+TestResults/
+
+# Local database files (if any)
+*.mdf
+*.ldf
+
+# Coverage reports
+coverage/
+*.coverage
+*.coveragexml
+
+# NCrunch
+*.ncrunch*
+.ncrunch*
+
+# Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+# Backup & temp files
+*~
+*.tmp
+
+# API documentation output (if generated)
+swagger/
+
+/.vs
