@@ -45,7 +45,7 @@ Before you begin, ensure you have the following installed:
 ### 🔧 Run Locally
 
 ```bash
-git clone https://github.com/your-org/eventlogger-api.git
+git clone https://github.com/wangamx2/eventlogger-api.git
 cd eventLogger.api
 
 # Restore NuGet packages
